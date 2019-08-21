@@ -1,0 +1,16 @@
+{
+  "name" : "kbide-plugin-mcu-3001",
+  "title": "mcu-3001",
+  "keywords": "mcu-3001, esp32, esp8266, arduino",
+  "description": "Plugin mcu-3001 for KB-IDE",
+  "git": "https://github.com/cmmc-kbide/kbide-plugin-mcu-3001/",
+  "author": "cmmakerclub",
+  "email": "",
+  "url": "https://github.com/cmmc-kbide/kbide-plugin-mcu-3001/",
+  "version": "1.0.0",
+  "board" : "",
+  "platform": ["arduino-esp32"],
+  "license": "",
+  "image" : "/static/display.png",
+  "homepage": "http://www.kbide.org"
+}
